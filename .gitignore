@@ -2,3 +2,5 @@
 .vscode
 .cph
 *.sh
+*ps1
+*py
